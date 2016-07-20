@@ -1,5 +1,5 @@
 SDCC=sdcc
-STM8FLASH=C:\stm8flash\stm8flash.exe
+STM8FLASH=C:\stm8flash-master\stm8flash.exe
 OBJECTS=blinky.ihx
 
 .PHONY: all clean flash
