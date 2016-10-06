@@ -1,0 +1,15 @@
+Kanalų paieška
+
+Paleidžiam MctvPlaylistCreator_1_3_6 (http://uross-digital-tools.appspot.com/?subpage=mctv_scanner) ir irašom:
+
+Port : 1234
+Start: 233.136.41.0
+Stop : 233.136.41.255
+
+Skenuoti reikia tokius adresus (visi su 1234 portu):
+233.136.41.0 - 233.136.41.255
+239.255.13.0 - 239.255.13.255
+239.255.12.0 - 239.255.12.255
+233.136.41.0 - 233.136.41.255
+
+ir išsaugom File->Export->M3u [ Tano player ]
